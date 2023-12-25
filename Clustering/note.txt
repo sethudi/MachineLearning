@@ -1,2 +1,8 @@
 # model.inertia_ =represents the sum of squared distances between data points and their assigned cluster centroids. 
 # This value is often used as a metric to evaluate the quality of the clustering.
+
+# Agglomerative clustering = We're starting with all the values in our own clusters,
+# And we're looking for the closest clusters.
+
+#Unsupervised learning = given input data without any additional feedback, learn patterns.
+#Clustering = Organizing a set of objects into groups in such a way that similar objects tend to be in the same group.
