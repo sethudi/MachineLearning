@@ -1,0 +1,10 @@
+# Regression = predicting dependent variables on the basis of independent variables.
+# Linear Regression = Answers the question, how do we find the line of best fit for the data?
+
+# R squared = A coefficient of determination, it's a measure of goodness and fit
+# It tells you from a certain perspective how well the model you've built fits the thing you trying to predict
+
+# confusion_matrix = in logistic regression, I could use it instead of R squared
+
+# nearest-neighbor classification = Algorithm that, given an input, chooses the class of the nearest data point to that input
+

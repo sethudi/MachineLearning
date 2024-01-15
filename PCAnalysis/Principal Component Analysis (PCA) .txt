@@ -1,0 +1,6 @@
+Principal Component Analysis (PCA) 
+# Reduces the number of dimensions of your data
+# Makes it easier to understand your data
+# Reduces the amount of data your models have to process
+# Enables you to sensibly plot multi-dimensional data on a 2D graph
+# Tells you which data features are most strongly correlated with the target information.

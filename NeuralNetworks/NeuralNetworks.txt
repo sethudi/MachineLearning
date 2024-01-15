@@ -1,0 +1,3 @@
+# Activation Functions
+1. ReLu: "Rectified Linear Unit" = If weighted sum is less than zero, output is zero. Otherwise output is unmodified.
+2. Softmax: uses the exponential function on the output = Normalised so all outputs add up to one
